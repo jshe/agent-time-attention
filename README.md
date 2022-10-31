@@ -1,4 +1,4 @@
-# Agent-Time Attention for Sparse Rewards Multi-Agent Reinforcement Learning
+# Agent-Time Attention for Sparse Rewards <br/> Multi-Agent Reinforcement Learning
 
 Code accompanying the paper of the same name.
 
