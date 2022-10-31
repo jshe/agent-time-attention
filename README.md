@@ -1,4 +1,6 @@
-# Code for Agent-Time Attention for Sparse Rewards Multi-Agent Reinforcement Learning.
+# Agent-Time Attention for Sparse Rewards Multi-Agent Reinforcement Learning
+
+Code accompanying the paper of the same name.
 
 
 ## Install required packages:
@@ -12,6 +14,6 @@ bash mr.sh
 ```
 
 # References: 
-https://github.com/ml-jku/rudder-demonstration-code
-https://github.com/oxwhirl/pymarl
-https://github.com/maximecb/gym-minigrid
+* https://github.com/ml-jku/rudder-demonstration-code
+* https://github.com/oxwhirl/pymarl
+* https://github.com/maximecb/gym-minigrid
