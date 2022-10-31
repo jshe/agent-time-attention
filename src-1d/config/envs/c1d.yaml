@@ -1,0 +1,25 @@
+env: c1d
+
+env_args:
+  obs_instead_of_state: False
+  obs_last_action: False
+  window: 2
+  reward_scale: False
+  reward_scale_rate: 1
+  reward_sparse: True
+  reward_local: False
+  state_last_action: False
+  episode_limit: 200
+  n_agents: 2
+  p: 0.25
+
+learner_log_interval: 20
+log_interval: 20
+runner_log_interval: 20
+t_max: 100000500
+test_interval: 20000
+test_nepisode: 24
+test_greedy: True
+
+rnn_hidden_dim: 64 # Size of hidden state for default rnn agent
+critic_hidden_dim: 128 # Size of hidden state for default rnn agent
