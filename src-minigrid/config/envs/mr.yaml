@@ -1,0 +1,25 @@
+env: mr
+
+env_args:
+  minNumRooms: 2
+  maxNumRooms: 2
+  minRoomSize: 4
+  maxRoomSize: 4
+  grid_size: 12
+  window: 2
+  reward_sparse: True
+  reward_local: False
+  episode_limit: 200
+  n_agents: 2
+  p: 0.25
+
+learner_log_interval: 20
+log_interval: 20
+runner_log_interval: 20
+t_max: 300000500
+test_interval: 20000
+test_nepisode: 24
+test_greedy: True
+
+rnn_hidden_dim: 64 # Size of hidden state for default rnn agent
+critic_hidden_dim: 128 # Size of hidden state for default rnn agent
