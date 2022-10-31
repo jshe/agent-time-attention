@@ -1,6 +1,6 @@
 # Agent-Time Attention for Sparse Rewards <br/> Multi-Agent Reinforcement Learning
 
-Code accompanying the paper of the same name.
+Code accompanying paper of the same name.
 
 
 ## Install required packages:
